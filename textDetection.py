@@ -1,0 +1,1 @@
+#!/usr/bin/env python3# -*- coding=utf8 -*-"""# Author: WenT_Ethan# Text Editor: Vim# Created Time : Wed Jul  7 17:03:45 2021# File Name: textDetection# Description:"""import osimport cv2import platformimport pytesseractimport numpy as npimport matplotlib as mplimport matplotlib.pyplot as plt
